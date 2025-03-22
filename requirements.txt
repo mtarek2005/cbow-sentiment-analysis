@@ -1,0 +1,4 @@
+notebook==7.3.3
+numpy==2.2.4
+tensorflow==2.18.1
+
